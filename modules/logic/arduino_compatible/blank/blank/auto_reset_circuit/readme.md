@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Logic Arduino Compatible Auto Reset Circuit  
+logic_arduino_compatible_auto_reset_circuit  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: logic
+* type: arduino_compatible
+* size: 
 * color: 
-* description_main: oobb_3_2
+* description_main: auto_reset_circuit
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: logic_arduino_compatible_auto_reset_circuit
+* md5_6: ad6ca4
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/logic_arduino_compatible_auto_reset_circuit/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

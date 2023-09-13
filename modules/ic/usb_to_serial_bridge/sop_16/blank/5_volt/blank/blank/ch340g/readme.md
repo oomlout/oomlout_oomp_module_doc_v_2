@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Ic Usb To Serial Bridge Sop 16 5 Volt Ch340G  
+ic_usb_to_serial_bridge_sop_16_5_volt_ch340g  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: ic
+* type: usb_to_serial_bridge
+* size: sop_16
 * color: 
-* description_main: oobb_3_2
+* description_main: 5_volt
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: ic_usb_to_serial_bridge_sop_16_5_volt_ch340g
+* md5_6: 86ef09
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/ic_usb_to_serial_bridge_sop_16_5_volt_ch340g/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

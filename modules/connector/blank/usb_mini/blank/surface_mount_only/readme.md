@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Connector Usb Mini Surface Mount Only  
+connector_usb_mini_surface_mount_only  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: connector
+* type: 
+* size: usb_mini
 * color: 
-* description_main: oobb_3_2
+* description_main: surface_mount_only
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: connector_usb_mini_surface_mount_only
+* md5_6: 58c4f7
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/connector_usb_mini_surface_mount_only/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Ic Usb Multiplexer Msop 10 Two To One Rs2227Xn  
+ic_usb_multiplexer_msop_10_two_to_one_rs2227xn  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: ic
+* type: usb_multiplexer
+* size: msop_10
 * color: 
-* description_main: oobb_3_2
+* description_main: two_to_one
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: ic_usb_multiplexer_msop_10_two_to_one_rs2227xn
+* md5_6: 84a478
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/ic_usb_multiplexer_msop_10_two_to_one_rs2227xn/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

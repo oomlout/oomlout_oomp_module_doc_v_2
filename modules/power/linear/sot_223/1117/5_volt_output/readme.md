@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Power Linear Sot 223 1117 5 Volt Output  
+power_linear_sot_223_1117_5_volt_output  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
-* color: 
-* description_main: oobb_3_2
+* classification: power
+* type: linear
+* size: sot_223
+* color: 1117
+* description_main: 5_volt_output
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: power_linear_sot_223_1117_5_volt_output
+* md5_6: 3b0efb
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/power_linear_sot_223_1117_5_volt_output/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

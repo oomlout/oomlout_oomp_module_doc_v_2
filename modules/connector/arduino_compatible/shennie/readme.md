@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Connector Arduino Compatible Shennie  
+connector_arduino_compatible_shennie  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: connector
+* type: arduino_compatible
+* size: shennie
 * color: 
-* description_main: oobb_3_2
+* description_main: 
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: connector_arduino_compatible_shennie
+* md5_6: fd005d
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/connector_arduino_compatible_shennie/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

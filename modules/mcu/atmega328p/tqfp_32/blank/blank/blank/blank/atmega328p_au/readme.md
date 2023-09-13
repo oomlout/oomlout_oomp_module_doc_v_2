@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Mcu Atmega328P Tqfp 32 Atmega328P Au  
+mcu_atmega328p_tqfp_32_atmega328p_au  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: mcu
+* type: atmega328p
+* size: tqfp_32
 * color: 
-* description_main: oobb_3_2
+* description_main: 
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: mcu_atmega328p_tqfp_32_atmega328p_au
+* md5_6: fcd45d
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/mcu_atmega328p_tqfp_32_atmega328p_au/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

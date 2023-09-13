@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Switch Slide Single Pole Double Throw 2 8 Mm X 8 Mm X 1 4  
+switch_slide_single_pole_double_throw_2_8_mm_x_8_mm_x_1_4  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: switch_slide
+* type: single_pole_double_throw
+* size: 2_8_mm_x_8_mm_x_1_4
 * color: 
-* description_main: oobb_3_2
+* description_main: 
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: switch_slide_single_pole_double_throw_2_8_mm_x_8_mm_x_1_4
+* md5_6: 73f180
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/switch_slide_single_pole_double_throw_2_8_mm_x_8_mm_x_1_4/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

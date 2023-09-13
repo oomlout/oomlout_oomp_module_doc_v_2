@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Logic I2C Pull Up Resistors  
+logic_i2c_pull_up_resistors  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: logic
+* type: i2c
+* size: 
 * color: 
-* description_main: oobb_3_2
+* description_main: pull_up_resistors
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: logic_i2c_pull_up_resistors
+* md5_6: d4321a
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/logic_i2c_pull_up_resistors/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

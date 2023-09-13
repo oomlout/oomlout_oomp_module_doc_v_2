@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Ceramic Resonator 3213 3 Pin 16 Mega Hertz  
+ceramic_resonator_3213_3_pin_16_mega_hertz  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: ceramic_resonator
+* type: 
+* size: 3213_3_pin
 * color: 
-* description_main: oobb_3_2
+* description_main: 16_mega_hertz
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: ceramic_resonator_3213_3_pin_16_mega_hertz
+* md5_6: f7f180
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/ceramic_resonator_3213_3_pin_16_mega_hertz/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

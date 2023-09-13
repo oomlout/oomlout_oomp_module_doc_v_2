@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Mechanical Board Shape Oobb Plate 03 03  
+mechanical_board_shape_oobb_plate_03_03  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: mechanical
+* type: board_shape
+* size: oobb
 * color: 
-* description_main: oobb_3_2
+* description_main: plate_03_03
 * description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* id: mechanical_board_shape_oobb_plate_03_03
+* md5_6: 6e5e8f
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/mechanical_board_shape_oobb_plate_03_03/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  

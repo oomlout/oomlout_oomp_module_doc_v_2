@@ -1,16 +1,16 @@
-# Breakout Board Sensor Ibbc Oobb 3 2  
-breakout_board_sensor_ibbc_oobb_3_2  
+# Connector Ibbc Soic 14 Wide Basic Helicopter  
+connector_ibbc_soic_14_wide_basic_helicopter  
  
 ## summary 
-* classification: breakout_board
-* type: sensor
-* size: ibbc
+* classification: connector
+* type: ibbc
+* size: soic_14_wide
 * color: 
-* description_main: oobb_3_2
-* description_extra: 
-* id: breakout_board_sensor_ibbc_oobb_3_2
-* md5_6: 491dd2
-* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/breakout_board_sensor_ibbc_oobb_3_2/working
+* description_main: basic
+* description_extra: helicopter
+* id: connector_ibbc_soic_14_wide_basic_helicopter
+* md5_6: d8c8f5
+* full details link: https://github.com/oomlout/oomlout_oomp_module_src/tree/main/modules/connector_ibbc_soic_14_wide_basic_helicopter/working
 
 ## schematic  
 ![](kicad/current_version/working/working_schematic_600.png)  
